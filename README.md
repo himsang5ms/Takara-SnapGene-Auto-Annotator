@@ -13,6 +13,10 @@
 ## 🎬 效果演示 (Demo)
 ![Takara GenBank Exporter](https://github.com/user-attachments/assets/fdb5beb5-4f7d-4ed9-b658-798ab7e4bfeb)
 
+## 📺 **视频操作演示：**
+如果你想看完整的使用流程，欢迎点击观看我的 B 站视频 👉 [Takara一键导出SnapGene插件演示](https://www.bilibili.com/video/BV11AZZBUEXS/?share_source=copy_web&vd_source=f891b9654f7773166154b2d9ba34d9e6)
+（顺便求个三连~）
+
 ## 📥 安装与使用 (Installation)
 
 1. 浏览器安装 Tampermonkey 插件。
